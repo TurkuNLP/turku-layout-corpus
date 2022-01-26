@@ -1,2 +1,3 @@
-# turku-layout-corpus
+# Turku layout corpus
+
 Corpus of Finnish open access publications with layout annotations

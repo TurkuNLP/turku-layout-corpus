@@ -6,7 +6,7 @@ Corpus of Finnish open access publications with layout annotations
 
 - `original-documents/`: original PDF documents
 - `metadata/`: [OAI-PMH](https://www.openarchives.org/pmh/) metadata for each PDF document, including license terms
-- `coco/annotations.json`: annotations in [https://cocodataset.org/](COCO) format
+- `coco/annotations.json`: annotations in [COCO](https://cocodataset.org/) format
 - `coco/images/`: images extracted from PDF documents, one image per page
 
 The data found in the `coco/` directory was generated from documents
